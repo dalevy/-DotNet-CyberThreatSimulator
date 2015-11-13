@@ -1,0 +1,75 @@
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTED.csprojResolveAssemblyReference.cache
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\MainWindow.baml
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\App.g.cs
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp_Content.g.cs
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp_MarkupCompile.cache
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.g.resources
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTED.Properties.Resources.resources
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTED.csproj.GenerateResource.Cache
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\NavyTEDSimApp.exe.config
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\NavyTEDSimApp.exe
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\NavyTEDSimApp.pdb
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\DEMCommon.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\System.Data.SQLite.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\TEDInterface.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\DEMCommon.pdb
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\TEDInterface.pdb
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.exe
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.pdb
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\log4net.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\bin\Debug\Database\TED.sqlite
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\Startup.baml
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\Startup.g.cs
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\NavyTEDSimApp.exe.config
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.exe
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.pdb
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\Database\TED.sqlite
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\x64\SQLite.Interop.dll
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\x86\SQLite.Interop.dll
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\NavyTEDSimApp.exe
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\NavyTEDSimApp.pdb
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\DEMCommon.dll
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\System.Data.SQLite.dll
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\TEDInterface.dll
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\log4net.dll
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\DEMCommon.pdb
+E:\Summer 2015\NavyTED\NavyTED\bin\Debug\TEDInterface.pdb
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTED.csprojResolveAssemblyReference.cache
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\MainWindow.baml
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\Startup.baml
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\MainWindow.g.cs
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\Startup.g.cs
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\App.g.cs
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp_Content.g.cs
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp_MarkupCompile.cache
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.g.resources
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTED.Properties.Resources.resources
+E:\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTED.csproj.GenerateResource.Cache
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\NavyTEDSimApp.exe.config
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.exe
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.pdb
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\Database\TED.sqlite
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\NavyTEDSimApp.exe
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\NavyTEDSimApp.pdb
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\DEMCommon.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\System.Data.SQLite.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\TEDInterface.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\log4net.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\DEMCommon.pdb
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\bin\Debug\TEDInterface.pdb
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTED.csprojResolveAssemblyReference.cache
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\MainWindow.baml
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\Startup.baml
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\MainWindow.g.cs
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\Startup.g.cs
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\App.g.cs
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp_Content.g.cs
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp_MarkupCompile.cache
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.g.resources
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTED.Properties.Resources.resources
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\NavyTED\obj\x86\Debug\NavyTED.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+C:\Users\dmita.levy.ctr\documents\visual studio 2010\Projects\TEDPrototype\TEDInterface\bin\Debug\TEDInterface.dll
+C:\Users\dmita.levy.ctr\documents\visual studio 2010\Projects\TEDPrototype\TEDInterface\bin\Debug\TEDInterface.pdb
+C:\Users\dmita.levy.ctr\documents\visual studio 2010\Projects\TEDPrototype\TEDInterface\bin\Debug\System.Data.SQLite.dll
+C:\Users\dmita.levy.ctr\documents\visual studio 2010\Projects\TEDPrototype\TEDInterface\obj\Debug\TEDInterface.dll
+C:\Users\dmita.levy.ctr\documents\visual studio 2010\Projects\TEDPrototype\TEDInterface\obj\Debug\TEDInterface.pdb
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\TEDInterface\bin\Debug\TEDInterface.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\TEDInterface\bin\Debug\TEDInterface.pdb
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\TEDInterface\obj\Debug\TEDInterface.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\TEDInterface\obj\Debug\TEDInterface.pdb
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\TEDInterface\bin\Debug\System.Data.SQLite.dll
+E:\Summer 2015\NavyTED\TEDInterface\bin\Debug\TEDInterface.dll
+E:\Summer 2015\NavyTED\TEDInterface\bin\Debug\TEDInterface.pdb
+E:\Summer 2015\NavyTED\TEDInterface\bin\Debug\System.Data.SQLite.dll
+E:\Summer 2015\NavyTED\TEDInterface\obj\Debug\TEDInterface.dll
+E:\Summer 2015\NavyTED\TEDInterface\obj\Debug\TEDInterface.pdb
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\TEDInterface\bin\Debug\TEDInterface.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\TEDInterface\bin\Debug\TEDInterface.pdb
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\TEDInterface\bin\Debug\System.Data.SQLite.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\TEDInterface\obj\Debug\TEDInterface.csprojResolveAssemblyReference.cache
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\TEDInterface\obj\Debug\TEDInterface.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\TEDInterface\obj\Debug\TEDInterface.pdb

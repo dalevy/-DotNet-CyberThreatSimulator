@@ -1,0 +1,27 @@
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\DEMCommon\obj\Debug\DEMCommon.csprojResolveAssemblyReference.cache
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\DEMCommon\bin\Debug\DEMCommon.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\DEMCommon\bin\Debug\DEMCommon.pdb
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\DEMCommon\bin\Debug\System.Data.SQLite.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\DEMCommon\bin\Debug\TEDInterface.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\DEMCommon\bin\Debug\TEDInterface.pdb
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\DEMCommon\obj\Debug\DEMCommon.dll
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\DEMCommon\obj\Debug\DEMCommon.pdb
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\DEMCommon\bin\Debug\log4net.dll
+E:\Summer 2015\NavyTED\DEMCommon\bin\Debug\DEMCommon.dll
+E:\Summer 2015\NavyTED\DEMCommon\bin\Debug\DEMCommon.pdb
+E:\Summer 2015\NavyTED\DEMCommon\bin\Debug\log4net.dll
+E:\Summer 2015\NavyTED\DEMCommon\bin\Debug\System.Data.SQLite.dll
+E:\Summer 2015\NavyTED\DEMCommon\bin\Debug\TEDInterface.dll
+E:\Summer 2015\NavyTED\DEMCommon\bin\Debug\TEDInterface.pdb
+E:\Summer 2015\NavyTED\DEMCommon\obj\Debug\DEMCommon.csprojResolveAssemblyReference.cache
+E:\Summer 2015\NavyTED\DEMCommon\obj\Debug\DEMCommon.dll
+E:\Summer 2015\NavyTED\DEMCommon\obj\Debug\DEMCommon.pdb
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\DEMCommon\bin\Debug\DEMCommon.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\DEMCommon\bin\Debug\DEMCommon.pdb
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\DEMCommon\bin\Debug\log4net.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\DEMCommon\bin\Debug\System.Data.SQLite.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\DEMCommon\bin\Debug\TEDInterface.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\DEMCommon\bin\Debug\TEDInterface.pdb
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\DEMCommon\obj\Debug\DEMCommon.csprojResolveAssemblyReference.cache
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\DEMCommon\obj\Debug\DEMCommon.dll
+C:\Users\DODTech\Desktop\THE WONDER EMPORIUM\Summer 2015\NavyTED\DEMCommon\obj\Debug\DEMCommon.pdb

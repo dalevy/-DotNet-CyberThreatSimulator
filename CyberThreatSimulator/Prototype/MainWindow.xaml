@@ -1,0 +1,43 @@
+﻿<Window x:Class="TEDPrototype.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:wfi="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        Title="MainWindow" Height="760" Width="1000" Loaded="Window_Loaded">
+
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" Height="20">
+            <MenuItem Header="File">
+                <MenuItem.Icon>
+                    <Image Source="Images/Koala.jpg" />
+                </MenuItem.Icon>
+                <MenuItem Header="Open" />
+                <Separator />
+                <MenuItem Header="Exit" Click="MenuItem_Click" />
+            </MenuItem>
+        </Menu>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="321*" />
+            <RowDefinition Height="440*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="132*" />
+            <ColumnDefinition Width="566*" />
+        </Grid.ColumnDefinitions>
+        
+        <!-- Left Panel Items-->
+        <TreeView Name="dbTree" SelectedItemChanged="ShowDatabase">
+            <TreeViewItem Name="dbRoot" Header="TED">
+                
+            </TreeViewItem>
+        </TreeView>
+        <!-- Left Panel Items-->
+        <DataGrid Name="tableDisplay" Grid.Column="1"></DataGrid>
+        <Button Content="Query" Margin="23,33,652,341" Grid.Column="1" Grid.Row="1" Click="Query_Click"/>
+        <TextBox Name="queryText" Margin="160,33,22,340" Grid.Column="1" Grid.Row="1" />
+        <TextBox Name="transactText" Margin="160,145,22,228" Grid.Column="1" Grid.Row="1" />
+        <Button Content="Transact" Margin="23,145,652,229" Grid.Column="1" Grid.Row="1" Click="Transact_Click" />
+    </Grid>
+    </DockPanel>
+</Window>

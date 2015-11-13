@@ -1,0 +1,61 @@
+﻿
+/* Builds AppSettings Table */
+
+CREATE TABLE IF NOT EXISTS AppSettings
+(
+  Retrieve_Hardware_Profile VARCHAR(4)
+);
+
+INSERT INTO AppSettings (Retrieve_Hardware_Profile) VALUES ('YES');
+
+
+/* Builds Network Settings Table */
+
+CREATE TABLE IF NOT EXISTS NetworkSettings
+(
+  UDP_Network_Address VARCHAR(15),
+  UDP_Network_Broadcast_Address VARCHAR(15),
+  UDP_App_Port INT,
+  TCP_App_Port INT,
+  SIM_Setup_Heartbeat_Interval INT,
+  SIM_Message_Heartbeat_Interval INT
+);
+
+INSERT INTO NetworkSettings (UDP_Network_Address,UDP_Network_Broadcast_Address,UDP_App_Port,TCP_App_Port,SIM_Setup_Heartbeat_Interval,SIM_Message_Heartbeat_Interval) VALUES ('239.1.2.0','239.1.2.255','7414','7424','1000','500');
+
+/* Builds the SimConfigs Table*/
+
+CREATE TABLE IF NOT EXISTS SimConfigs
+(
+  date VARCHAR(30),
+  simid varchar(36) NOT NULL,
+  name varchar(50) NOT NULL,
+  description text,
+  PRIMARY KEY (simid)	
+);
+
+/* Long String version for copy paste */
+CREATE TABLE IF NOT EXISTS SimConfigs(date VARCHAR(30),simid varchar(36) NOT NULL,name varchar(50) NOT NULL,description TEXT,PRIMARY KEY (simid)	);
+
+
+/* Builds the SimConfigs Table*/
+
+CREATE TABLE IF NOT EXISTS SystemProfile
+(
+		  Processor_Manufacturer VARCHAR(50), 
+          Processor_Name VARCHAR(100),
+          Processor_Max_ClockSpeed INT,
+          Processor_ID VARCHAR(100),
+          Processor_Revision INT,
+          OpSystem_Caption VARCHAR(250),
+          OpSystem_ServicePack_MajorVersion INT,
+          OpSystem_ServicePack_MinorVersion INT,
+          OpSystem_Install_Date VARCHAR(25),
+          OpSystem_Version VARCHAR(25),
+          OpSystem_Free_Physical_Memory INT, 
+          System_Caption VARCHAR(100),
+          System_Description VARCHAR(100),
+          System_Manufacturer VARCHAR(100),
+          System_Model VARCHAR(100),
+          System_Total_Physical_Memory INT
+);

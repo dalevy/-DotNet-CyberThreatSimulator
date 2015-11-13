@@ -1,0 +1,9 @@
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.csprojResolveAssemblyReference.cache
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\MainWindow.baml
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\App.g.cs
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp_MarkupCompile.cache
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.g.resources
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTED.Properties.Resources.resources
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp.csproj.GenerateResource.Cache
+C:\Users\dmita.levy.ctr\Documents\Visual Studio 2010\Projects\NavyTED\NavyTED\obj\x86\Debug\NavyTEDSimApp_Content.g.cs
